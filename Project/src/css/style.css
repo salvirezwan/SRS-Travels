@@ -1,0 +1,28 @@
+.dark-background{
+    -fx-background-color: lightash;
+}
+
+
+.border-bottom{
+    -fx-border-width: 0 0 2 0;
+    -fx-border-color: #676767;
+}
+
+
+.button
+{
+    -fx-background-color: lightblue;
+    -fx-border-color: blue;
+}
+
+.button:hover
+{
+    -fx-background-color: pink;
+}
+
+
+.text-field:hover
+{
+    -fx-background-color: yellow;
+}
+
